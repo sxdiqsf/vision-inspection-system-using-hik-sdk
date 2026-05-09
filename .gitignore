@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+bar_output/
+captured_images/
+edge_shape_result/
+hik/
+saved_holes/
+
+*.bmp
+*.zip
+
+venv/
+.env
+
+.idea/
+.vscode/
